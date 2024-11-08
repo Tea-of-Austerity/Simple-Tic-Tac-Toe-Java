@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Java)/*
+!/Simple Tic-Tac-Toe (Java)/task/
+/Simple Tic-Tac-Toe (Java)/task/*
+!/Simple Tic-Tac-Toe (Java)/task/src
+
+# Project exclude paths
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
